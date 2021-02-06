@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Bad Boy 👋</h1>
+<h1 align="center">Welcome to Thanos 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
@@ -31,11 +31,36 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-Put the bot token in "TOKEN" at the top of the script<br />How to get your discord token: https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token
+
 ```sh
-python3 EzFarm.py
+python3 Thanos.py [url] [thread] [proxies]
 ```
 
+COMMAND
+ -------
+    python Thanos.py [url] [thread] [proxies]
+
+    url = https://website.com/bigfile.txt
+    thread = 1 - 1000
+    proxies = no/yes/scrap
+    scrap = scrap proxies and use them
+
+ USAGE
+ -----
+    This Dos Tool will send a bunch of http-get request to a web server
+    Usage:
+        Use the inspect element (Crt + Shift + i) on the website and find the heaviest file. It can have any extension (.txt, .png, .exe ...)
+        Use only http-type proxies without authorization
+        Do not put too much thread, because your wifi will also lag
+        If your using proxies, make shure to put them in http_proxies.txt in ./proxies
+
+ EXAMPLES
+ --------
+    root@root> python dos_hamer.py https://www.google.com/images/nav_logo299.webp 500 no
+    --> This will send requests to google.com and won't use proxies
+
+    root@root> python dos_hamer.py https://www.google.com/images/nav_logo299.webp 500 scrap
+    --> This will send requests to google.com and scrapt for http proxies online and use them
 ## Author
 
 👤 **loTus01**
