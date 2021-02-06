@@ -1,0 +1,4 @@
+requests
+colorama
+threading
+ping3
