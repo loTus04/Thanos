@@ -1,6 +1,10 @@
 #!/usr/local/bin/python3
 #coding: utf-8
 
+# don't do shit with it, even if it's not my responsibility
+# "education purpos only" hehe
+
+
 import requests
 from colorama import Fore, init
 import json
