@@ -51,10 +51,10 @@ COMMAND
 
  EXAMPLES
  --------
-    root@root> python dos_hamer.py https://www.google.com/images/nav_logo299.webp 500 no
+    root@root> python Thanos.py https://www.google.com/images/nav_logo299.webp 500 no
     --> This will send requests to google.com and won't use proxies
 
-    root@root> python dos_hamer.py https://www.google.com/images/nav_logo299.webp 500 scrap
+    root@root> python Thanos.py https://www.google.com/images/nav_logo299.webp 500 scrap
     --> This will send requests to google.com and scrapt for http proxies online and use them
 ## Author
 
