@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Thanos is a Dos Tool will send a bunch of http-get request to a web server
+> Thanos is a Dos Tool that will send a bunch of http-get request to a web server
 
 ### 🏠 [Homepage](https://github.com/loTus04/Thanos/blob/main/README.md)
 
