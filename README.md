@@ -30,11 +30,6 @@
 pip3 install -r requirements.txt
 ```
 
-## Usage
-
-```sh
-python3 Thanos.py [url] [thread] [proxies]
-```
 
 COMMAND
  -------
