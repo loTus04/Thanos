@@ -16,8 +16,8 @@
 
 ### 🏠 [Homepage](https://github.com/loTus04/Thanos/blob/main/README.md)
 
-### ✨ [Demo](https://github.com/loTus04/Thanos/blob/main/img/banner.PNG)
-<img src="https://github.com/loTus04/Thanos/blob/main/img/banner.PNG" width="536" height="355"/>
+### ✨ [Demo](![image](https://user-images.githubusercontent.com/68511325/145680187-f975510d-29bf-4ca5-a00a-432627a6e8ae.png))
+<img src="https://user-images.githubusercontent.com/68511325/145680187-f975510d-29bf-4ca5-a00a-432627a6e8ae.png" width="536" height="355"/>
 
 ## Prerequisites
 
